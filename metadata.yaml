@@ -1,5 +1,8 @@
 _repo: Die-Ratten-Berliner-Tragikomodie_52952
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52952-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Hauptmann, Gerhart
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3226
     wikipedia: http://en.wikipedia.org/wiki/Gerhart_Hauptmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52952#Die-Ratten-Berliner-Tragikomodie
 gutenberg_issued: '2016-09-01'
 gutenberg_type: Text
 identifiers:
